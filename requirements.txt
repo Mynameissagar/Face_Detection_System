@@ -1,0 +1,16 @@
+Typical Content for requirements.txt
+
+For a face detection project with OpenCV:
+
+-> opencv-python
+-> opencv-contrib-python
+-> numpy
+
+If you plan to visualize results:
+
+-> matplotlib
+
+If you want to use deep learning models (optional):
+
+-> tensorflow
+-> torch
